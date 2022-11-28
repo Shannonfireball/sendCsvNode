@@ -1,0 +1,406 @@
+District,Town,Date,Count
+North Goa,Agassaim,2020-07-17,1
+North Goa,Anjuna,2020-07-17,1
+South Goa,Arlem,2020-07-17,2
+North Goa,Arpora,2020-07-17,1
+North Goa,Bambolim,2020-07-17,6
+North Goa,Batim,2020-07-17,0
+South Goa,Benaulim,2020-07-17,3
+South Goa,Betalbatim,2020-07-17,0
+North Goa,Betim,2020-07-17,1
+North Goa,Bicholim,2020-07-17,9
+North Goa,Calangute,2020-07-17,2
+North Goa,"Camrabhat, Tonca",2020-07-17,3
+North Goa,Camurlim,2020-07-17,1
+South Goa,Canacona,2020-07-17,6
+North Goa,Candolim,2020-07-17,1
+North Goa,Cansarvarnem,2020-07-17,6
+South Goa,Cansaulim,2020-07-17,2
+North Goa,Carambolim,2020-07-17,5
+North Goa,Caranzalem,2020-07-17,2
+North Goa,Chimbel,2020-07-17,2
+North Goa,Chimbel – Gavlebhat,2020-07-17,4
+North Goa,Chimbel – Indiranagar,2020-07-17,64
+South Goa,Chinchinim,2020-07-17,1
+South Goa,Colva,2020-07-17,1
+North Goa,Colvale,2020-07-17,1
+North Goa,Consua,2020-07-17,1
+North Goa,Corlim,2020-07-17,4
+South Goa,Cortalim,2020-07-17,0
+South Goa,Cuncolim,2020-07-17,24
+North Goa,Curca / Shankarwadi,2020-07-17,0
+South Goa,Curchorem,2020-07-17,8
+South Goa,Curtorim,2020-07-17,8
+North Goa,Dharbandora,2020-07-17,11
+North Goa,Dona Paula,2020-07-17,4
+South Goa,Fatorda,2020-07-17,0
+North Goa,Goa Velha,2020-07-17,4
+North Goa,Guirim,2020-07-17,1
+North Goa,Khandola,2020-07-17,36
+North Goa,Kumbharjua,2020-07-17,1
+North Goa,Kundaim,2020-07-17,2
+South Goa,Loutolim,2020-07-17,25
+North Goa,Mandur,2020-07-17,8
+South Goa,Mangor Hill,2020-07-17,43
+South Goa,Mangor Hill – Linked To,2020-07-17,417
+North Goa,Mapusa,2020-07-17,37
+North Goa,Marcaim,2020-07-17,5
+North Goa,Marcel,2020-07-17,0
+North Goa,Mardol,2020-07-17,1
+South Goa,Margao,2020-07-17,25
+South Goa,Margao – Moti Dongor,2020-07-17,7
+North Goa,Merces,2020-07-17,3
+South Goa,Navelim,2020-07-17,10
+North Goa,Nerul,2020-07-17,23
+North Goa,Neura,2020-07-17,0
+South Goa,Nuvem,2020-07-17,4
+North Goa,Old Goa,2020-07-17,1
+North Goa,Panaji,2020-07-17,10
+North Goa,"Parra, Mapusa",2020-07-17,2
+North Goa,Pernem,2020-07-17,18
+North Goa,Pilar,2020-07-17,0
+North Goa,Ponda,2020-07-17,45
+North Goa,Porvorim,2020-07-17,18
+South Goa,Quepem,2020-07-17,25
+South Goa,Raia,2020-07-17,3
+South Goa,Sanguem,2020-07-17,1
+North Goa,Sankhalim,2020-07-17,39
+South Goa,Shiroda,2020-07-17,20
+North Goa,Siolim,2020-07-17,2
+North Goa,St. Cruz,2020-07-17,1
+North Goa,St. Cruz – Cujira,2020-07-17,1
+North Goa,St. Inez,2020-07-17,1
+North Goa,Taleigao,2020-07-17,3
+North Goa,Thivim,2020-07-17,1
+Unknown,"Travelled by Road, Train, Flight",2020-07-17,131
+South Goa,Tulip Diagnostics,2020-07-17,139
+North Goa,Usgao,2020-07-17,12
+North Goa,Valpoi,2020-07-17,21
+South Goa,Vasco – Vaddem,2020-07-17,0
+North Goa,Verem,2020-07-17,2
+South Goa,Verna,2020-07-17,0
+North Goa,Volvoi,2020-07-17,4
+North Goa,Agassaim,2020-07-16,1
+North Goa,Anjuna,2020-07-16,1
+South Goa,Arlem,2020-07-16,2
+North Goa,Arpora,2020-07-16,1
+North Goa,Bambolim,2020-07-16,5
+North Goa,Batim,2020-07-16,0
+South Goa,Benaulim,2020-07-16,3
+South Goa,Betalbatim,2020-07-16,0
+North Goa,Betim,2020-07-16,0
+North Goa,Bicholim,2020-07-16,7
+North Goa,Calangute,2020-07-16,1
+North Goa,"Camrabhat, Tonca",2020-07-16,1
+North Goa,Camurlim,2020-07-16,1
+South Goa,Canacona,2020-07-16,1
+North Goa,Candolim,2020-07-16,1
+North Goa,Cansarvarnem,2020-07-16,6
+South Goa,Cansaulim,2020-07-16,1
+North Goa,Carambolim,2020-07-16,5
+North Goa,Caranzalem,2020-07-16,2
+North Goa,Chimbel,2020-07-16,0
+North Goa,Chimbel – Gavlebhat,2020-07-16,1
+North Goa,Chimbel – Indiranagar,2020-07-16,50
+South Goa,Chinchinim,2020-07-16,1
+South Goa,Colva,2020-07-16,1
+North Goa,Colvale,2020-07-16,1
+North Goa,Consua,2020-07-16,0
+North Goa,Corlim,2020-07-16,3
+South Goa,Cortalim,2020-07-16,0
+South Goa,Cuncolim,2020-07-16,25
+North Goa,Curca / Shankarwadi,2020-07-16,0
+South Goa,Curchorem,2020-07-16,4
+South Goa,Curtorim,2020-07-16,7
+North Goa,Dharbandora,2020-07-16,8
+North Goa,Dona Paula,2020-07-16,2
+South Goa,Fatorda,2020-07-16,0
+North Goa,Goa Velha,2020-07-16,4
+North Goa,Guirim,2020-07-16,1
+North Goa,Khandola,2020-07-16,32
+North Goa,Kumbharjua,2020-07-16,1
+North Goa,Kundaim,2020-07-16,2
+South Goa,Loutolim,2020-07-16,26
+North Goa,Mandur,2020-07-16,11
+South Goa,Mangor Hill,2020-07-16,69
+South Goa,Mangor Hill – Linked To,2020-07-16,398
+North Goa,Mapusa,2020-07-16,33
+North Goa,Marcaim,2020-07-16,9
+North Goa,Marcel,2020-07-16,0
+North Goa,Mardol,2020-07-16,1
+South Goa,Margao,2020-07-16,17
+South Goa,Margao – Moti Dongor,2020-07-16,7
+North Goa,Merces,2020-07-16,3
+South Goa,Navelim,2020-07-16,10
+North Goa,Nerul,2020-07-16,23
+North Goa,Neura,2020-07-16,1
+South Goa,Nuvem,2020-07-16,4
+North Goa,Old Goa,2020-07-16,1
+North Goa,Panaji,2020-07-16,7
+North Goa,"Parra, Mapusa",2020-07-16,1
+North Goa,Pernem,2020-07-16,17
+North Goa,Pilar,2020-07-16,3
+North Goa,Ponda,2020-07-16,45
+North Goa,Porvorim,2020-07-16,10
+South Goa,Quepem,2020-07-16,24
+South Goa,Raia,2020-07-16,3
+South Goa,Sanguem,2020-07-16,5
+North Goa,Sankhalim,2020-07-16,34
+South Goa,Shiroda,2020-07-16,20
+North Goa,Siolim,2020-07-16,2
+North Goa,St. Cruz,2020-07-16,0
+North Goa,St. Cruz – Cujira,2020-07-16,1
+North Goa,St. Inez,2020-07-16,0
+North Goa,Taleigao,2020-07-16,2
+North Goa,Thivim,2020-07-16,1
+Unknown,"Travelled by Road, Train, Flight",2020-07-16,128
+South Goa,Tulip Diagnostics,2020-07-16,139
+North Goa,Usgao,2020-07-16,8
+North Goa,Valpoi,2020-07-16,21
+South Goa,Vasco – Vaddem,2020-07-16,0
+North Goa,Verem,2020-07-16,2
+South Goa,Verna,2020-07-16,0
+North Goa,Volvoi,2020-07-16,4
+North Goa,Agassaim,2020-07-15,0
+North Goa,Anjuna,2020-07-15,0
+South Goa,Arlem,2020-07-15,2
+North Goa,Arpora,2020-07-15,0
+North Goa,Bambolim,2020-07-15,1
+North Goa,Batim,2020-07-15,0
+South Goa,Benaulim,2020-07-15,3
+South Goa,Betalbatim,2020-07-15,1
+North Goa,Betim,2020-07-15,0
+North Goa,Bicholim,2020-07-15,8
+North Goa,Calangute,2020-07-15,1
+North Goa,"Camrabhat, Tonca",2020-07-15,1
+North Goa,Camurlim,2020-07-15,1
+South Goa,Canacona,2020-07-15,6
+North Goa,Candolim,2020-07-15,1
+North Goa,Cansarvarnem,2020-07-15,6
+South Goa,Cansaulim,2020-07-15,1
+North Goa,Carambolim,2020-07-15,5
+North Goa,Caranzalem,2020-07-15,2
+North Goa,Chimbel,2020-07-15,0
+North Goa,Chimbel – Gavlebhat,2020-07-15,1
+North Goa,Chimbel – Indiranagar,2020-07-15,39
+South Goa,Chinchinim,2020-07-15,1
+South Goa,Colva,2020-07-15,1
+North Goa,Colvale,2020-07-15,1
+North Goa,Consua,2020-07-15,0
+North Goa,Corlim,2020-07-15,3
+South Goa,Cortalim,2020-07-15,0
+South Goa,Cuncolim,2020-07-15,27
+North Goa,Curca / Shankarwadi,2020-07-15,1
+South Goa,Curchorem,2020-07-15,2
+South Goa,Curtorim,2020-07-15,6
+North Goa,Dharbandora,2020-07-15,11
+North Goa,Dona Paula,2020-07-15,2
+South Goa,Fatorda,2020-07-15,1
+North Goa,Goa Velha,2020-07-15,4
+North Goa,Guirim,2020-07-15,1
+North Goa,Khandola,2020-07-15,40
+North Goa,Kumbharjua,2020-07-15,1
+North Goa,Kundaim,2020-07-15,1
+South Goa,Loutolim,2020-07-15,26
+North Goa,Mandur,2020-07-15,13
+South Goa,Mangor Hill,2020-07-15,78
+South Goa,Mangor Hill – Linked To,2020-07-15,408
+North Goa,Mapusa,2020-07-15,32
+North Goa,Marcaim,2020-07-15,9
+North Goa,Marcel,2020-07-15,2
+North Goa,Mardol,2020-07-15,1
+South Goa,Margao,2020-07-15,16
+South Goa,Margao – Moti Dongor,2020-07-15,7
+North Goa,Merces,2020-07-15,0
+South Goa,Navelim,2020-07-15,9
+North Goa,Nerul,2020-07-15,23
+North Goa,Neura,2020-07-15,5
+South Goa,Nuvem,2020-07-15,4
+North Goa,Old Goa,2020-07-15,0
+North Goa,Panaji,2020-07-15,1
+North Goa,"Parra, Mapusa",2020-07-15,1
+North Goa,Pernem,2020-07-15,12
+North Goa,Pilar,2020-07-15,3
+North Goa,Ponda,2020-07-15,49
+North Goa,Porvorim,2020-07-15,3
+South Goa,Quepem,2020-07-15,23
+South Goa,Raia,2020-07-15,3
+South Goa,Sanguem,2020-07-15,4
+North Goa,Sankhalim,2020-07-15,25
+South Goa,Shiroda,2020-07-15,18
+North Goa,Siolim,2020-07-15,0
+North Goa,St. Cruz,2020-07-15,0
+North Goa,St. Cruz – Cujira,2020-07-15,1
+North Goa,St. Inez,2020-07-15,0
+North Goa,Taleigao,2020-07-15,1
+North Goa,Thivim,2020-07-15,0
+Unknown,"Travelled by Road, Train, Flight",2020-07-15,129
+South Goa,Tulip Diagnostics,2020-07-15,136
+North Goa,Usgao,2020-07-15,8
+North Goa,Valpoi,2020-07-15,19
+South Goa,Vasco – Vaddem,2020-07-15,1
+North Goa,Verem,2020-07-15,2
+South Goa,Verna,2020-07-15,1
+North Goa,Volvoi,2020-07-15,4
+North Goa,Agassaim,2020-07-14,0
+North Goa,Anjuna,2020-07-14,0
+South Goa,Arlem,2020-07-14,0
+North Goa,Arpora,2020-07-14,0
+North Goa,Bambolim,2020-07-14,1
+North Goa,Batim,2020-07-14,0
+South Goa,Benaulim,2020-07-14,3
+South Goa,Betalbatim,2020-07-14,1
+North Goa,Betim,2020-07-14,0
+North Goa,Bicholim,2020-07-14,8
+North Goa,Calangute,2020-07-14,0
+North Goa,"Camrabhat, Tonca",2020-07-14,6
+North Goa,Camurlim,2020-07-14,1
+South Goa,Canacona,2020-07-14,7
+North Goa,Candolim,2020-07-14,1
+North Goa,Cansarvarnem,2020-07-14,6
+South Goa,Cansaulim,2020-07-14,0
+North Goa,Carambolim,2020-07-14,5
+North Goa,Caranzalem,2020-07-14,2
+North Goa,Chimbel,2020-07-14,0
+North Goa,Chimbel – Gavlebhat,2020-07-14,0
+North Goa,Chimbel – Indiranagar,2020-07-14,34
+South Goa,Chinchinim,2020-07-14,1
+South Goa,Colva,2020-07-14,1
+North Goa,Colvale,2020-07-14,1
+North Goa,Consua,2020-07-14,0
+North Goa,Corlim,2020-07-14,3
+South Goa,Cortalim,2020-07-14,0
+South Goa,Cuncolim,2020-07-14,27
+North Goa,Curca / Shankarwadi,2020-07-14,5
+South Goa,Curchorem,2020-07-14,2
+South Goa,Curtorim,2020-07-14,3
+North Goa,Dharbandora,2020-07-14,17
+North Goa,Dona Paula,2020-07-14,0
+South Goa,Fatorda,2020-07-14,1
+North Goa,Goa Velha,2020-07-14,5
+North Goa,Guirim,2020-07-14,1
+North Goa,Khandola,2020-07-14,40
+North Goa,Kumbharjua,2020-07-14,1
+North Goa,Kundaim,2020-07-14,1
+South Goa,Loutolim,2020-07-14,28
+North Goa,Mandur,2020-07-14,8
+South Goa,Mangor Hill,2020-07-14,77
+South Goa,Mangor Hill – Linked To,2020-07-14,306
+North Goa,Mapusa,2020-07-14,24
+North Goa,Marcaim,2020-07-14,6
+North Goa,Marcel,2020-07-14,2
+North Goa,Mardol,2020-07-14,1
+South Goa,Margao,2020-07-14,13
+South Goa,Margao – Moti Dongor,2020-07-14,7
+North Goa,Merces,2020-07-14,0
+South Goa,Navelim,2020-07-14,8
+North Goa,Nerul,2020-07-14,23
+North Goa,Neura,2020-07-14,6
+South Goa,Nuvem,2020-07-14,1
+North Goa,Old Goa,2020-07-14,0
+North Goa,Panaji,2020-07-14,1
+North Goa,"Parra, Mapusa",2020-07-14,1
+North Goa,Pernem,2020-07-14,13
+North Goa,Pilar,2020-07-14,2
+North Goa,Ponda,2020-07-14,41
+North Goa,Porvorim,2020-07-14,3
+South Goa,Quepem,2020-07-14,16
+South Goa,Raia,2020-07-14,3
+South Goa,Sanguem,2020-07-14,4
+North Goa,Sankhalim,2020-07-14,28
+South Goa,Shiroda,2020-07-14,17
+North Goa,Siolim,2020-07-14,0
+North Goa,St. Cruz,2020-07-14,0
+North Goa,St. Cruz – Cujira,2020-07-14,1
+North Goa,St. Inez,2020-07-14,0
+North Goa,Taleigao,2020-07-14,0
+North Goa,Thivim,2020-07-14,1
+Unknown,"Travelled by Road, Train, Flight",2020-07-14,126
+South Goa,Tulip Diagnostics,2020-07-14,136
+North Goa,Usgao,2020-07-14,7
+North Goa,Valpoi,2020-07-14,23
+South Goa,Vasco – Vaddem,2020-07-14,1
+North Goa,Verem,2020-07-14,2
+South Goa,Verna,2020-07-14,4
+North Goa,Volvoi,2020-07-14,4
+North Goa,Agassaim,2020-07-13,0
+North Goa,Anjuna,2020-07-13,0
+South Goa,Arlem,2020-07-13,0
+North Goa,Arpora,2020-07-13,0
+North Goa,Bambolim,2020-07-13,1
+North Goa,Batim,2020-07-13,3
+South Goa,Benaulim,2020-07-13,2
+South Goa,Betalbatim,2020-07-13,1
+North Goa,Betim,2020-07-13,0
+North Goa,Bicholim,2020-07-13,8
+North Goa,Calangute,2020-07-13,0
+North Goa,"Camrabhat, Tonca",2020-07-13,6
+North Goa,Camurlim,2020-07-13,1
+South Goa,Canacona,2020-07-13,8
+North Goa,Candolim,2020-07-13,1
+North Goa,Cansarvarnem,2020-07-13,0
+South Goa,Cansaulim,2020-07-13,0
+North Goa,Carambolim,2020-07-13,5
+North Goa,Caranzalem,2020-07-13,1
+North Goa,Chimbel,2020-07-13,0
+North Goa,Chimbel – Gavlebhat,2020-07-13,0
+North Goa,Chimbel – Indiranagar,2020-07-13,37
+South Goa,Chinchinim,2020-07-13,1
+South Goa,Colva,2020-07-13,1
+North Goa,Colvale,2020-07-13,0
+North Goa,Consua,2020-07-13,0
+North Goa,Corlim,2020-07-13,1
+South Goa,Cortalim,2020-07-13,1
+South Goa,Cuncolim,2020-07-13,28
+North Goa,Curca / Shankarwadi,2020-07-13,4
+South Goa,Curchorem,2020-07-13,3
+South Goa,Curtorim,2020-07-13,2
+North Goa,Dharbandora,2020-07-13,22
+North Goa,Dona Paula,2020-07-13,0
+South Goa,Fatorda,2020-07-13,4
+North Goa,Goa Velha,2020-07-13,5
+North Goa,Guirim,2020-07-13,
+North Goa,Khandola,2020-07-13,39
+North Goa,Kumbharjua,2020-07-13,1
+North Goa,Kundaim,2020-07-13,1
+South Goa,Loutolim,2020-07-13,28
+North Goa,Mandur,2020-07-13,8
+South Goa,Mangor Hill,2020-07-13,76
+South Goa,Mangor Hill – Linked To,2020-07-13,297
+North Goa,Mapusa,2020-07-13,11
+North Goa,Marcaim,2020-07-13,3
+North Goa,Marcel,2020-07-13,2
+North Goa,Mardol,2020-07-13,1
+South Goa,Margao,2020-07-13,10
+South Goa,Margao – Moti Dongor,2020-07-13,7
+North Goa,Merces,2020-07-13,0
+South Goa,Navelim,2020-07-13,7
+North Goa,Nerul,2020-07-13,23
+North Goa,Neura,2020-07-13,7
+South Goa,Nuvem,2020-07-13,1
+North Goa,Old Goa,2020-07-13,0
+North Goa,Panaji,2020-07-13,1
+North Goa,"Parra, Mapusa",2020-07-13,1
+North Goa,Pernem,2020-07-13,6
+North Goa,Pilar,2020-07-13,2
+North Goa,Ponda,2020-07-13,36
+North Goa,Porvorim,2020-07-13,3
+South Goa,Quepem,2020-07-13,15
+South Goa,Raia,2020-07-13,3
+South Goa,Sanguem,2020-07-13,4
+North Goa,Sankhalim,2020-07-13,24
+South Goa,Shiroda,2020-07-13,17
+North Goa,Siolim,2020-07-13,0
+North Goa,St. Cruz,2020-07-13,0
+North Goa,St. Cruz – Cujira,2020-07-13,1
+North Goa,St. Inez,2020-07-13,0
+North Goa,Taleigao,2020-07-13,0
+North Goa,Thivim,2020-07-13,1
+Unknown,"Travelled by Road, Train, Flight",2020-07-13,125
+South Goa,Tulip Diagnostics,2020-07-13,80
+North Goa,Usgao,2020-07-13,5
+North Goa,Valpoi,2020-07-13,22
+South Goa,Vasco – Vaddem,2020-07-13,1
+North Goa,Verem,2020-07-13,2
+South Goa,Verna,2020-07-13,5
+North Goa,Volvoi,2020-07-13,4
