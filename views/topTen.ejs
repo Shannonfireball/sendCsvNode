@@ -15,22 +15,22 @@
   <body>
     <ul class="nav nav-tabs">
       <li class="nav-item">
-        <a href="http://localhost:9000/" class="nav-link active"><button class="btn btn-outline-success">Home</button></a>
-        </li>
-      <li class="nav-item">
-      <a href="http://localhost:9000/toptendata" class="nav-link active"><button class="btn btn-outline-success">top 10</button></a>
+      <a href="http://localhost:9000/" class="nav-link"><button class="btn btn-outline-success">Home</button></a>
       </li>
       <li class="nav-item">
         <a href="http://localhost:9000/aggrigate" class="nav-link"><button class="btn btn-outline-success">Aggrigate</button></a>
       </li>
+      <li class="nav-item">
+        <a href="http://localhost:9000/toptendata" class="nav-link active"><button class="btn btn-outline-success">Top 10</button></a>
+      </li>
     </ul>
-    <form action="/" method="post" enctype="multipart/form-data">
+    <form action="/toptendata" method="get" enctype="multipart/form-data">
       <div class="container mt-4">
-        <div class="mb-3">
-          <input type="file" class="form-control" name="csvFile" />
-        </div>
-        <button type="submit" class="btn btn-success">Upload</button>
+      <div class="mb-3">
+        <input type="text" class="form-control" name="date" placeholder="YYYY-MM-DD" />
       </div>
+      <button type="submit" class="btn btn-success">Get Date</button>
+    </div>
       <%if(data){%>
       <div class="container mt-4">
         <table class="table">

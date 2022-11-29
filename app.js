@@ -38,6 +38,8 @@ app.use(cookieParser());
 
 
 app.use('/',require('./routes/sendCsvData'));
+app.use('/toptendata',require('./routes/topTenRoute'));
+app.use('/aggrigate',require('./routes/aggrigateRoute'));
 app.use('/users', usersRouter);
 app.use("/testAPI", testAPIRouter);
 
